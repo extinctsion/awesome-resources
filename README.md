@@ -1,7 +1,7 @@
 🎃 Hacktoberfest 2025 – Open Source Resources
 
-Welcome to this repository! PLease give stars if you like the repository
-
+Welcome to this repository! **Please give stars if you like the repository
+**
 
 This project is created as part of Hacktoberfest 2024, an open-source
 celebration where developers from all around the world contribute to
