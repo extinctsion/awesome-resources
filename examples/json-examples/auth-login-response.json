@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "message": "Login successful",
+    "data": {
+      "user": {
+        "id": "user_12345",
+        "email": "john.doe@example.com",
+        "firstName": "John",
+        "lastName": "Doe",
+        "avatar": "https://api.example.com/avatars/user_12345.jpg",
+        "role": "admin",
+        "permissions": ["read", "write", "delete"]
+      },
+      "tokens": {
+        "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+        "accessTokenExpiresAt": "2025-10-12T15:30:00Z",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+        "refreshTokenExpiresAt": "2025-10-19T14:30:00Z",
+        "tokenType": "Bearer"
+      }
+    }
+  }
