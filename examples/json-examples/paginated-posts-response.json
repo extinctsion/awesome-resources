@@ -1,0 +1,24 @@
+{
+    "data": [
+      {
+        "id": "p2001",
+        "title": "Learn GraphQL with .NET",
+        "author": "Sahil",
+        "published_at": "2025-10-01T09:00:00Z"
+      },
+      {
+        "id": "p2002",
+        "title": "Building Realtime Chat with Socket.io",
+        "author": "Aisha",
+        "published_at": "2025-10-02T14:20:00Z"
+      }
+    ],
+    "meta": {
+      "result_count": 2,
+      "newest_id": "p2002",
+      "oldest_id": "p2001",
+      "next_token": "eyJwYWdlIjoyfQ==",
+      "previous_token": null
+    }
+  }
+  

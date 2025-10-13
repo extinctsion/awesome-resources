@@ -1,0 +1,42 @@
+{
+    "id": "pay_G3P9vcIhRs3NV4",
+    "entity": "payment",
+    "amount": 1000,
+    "currency": "INR",
+    "status": "captured",
+    "order_id": "order_GjC***********",
+    "invoice_id": null,
+    "international": false,
+    "method": "card",
+    "amount_refunded": 0,
+    "refund_status": null,
+    "captured": true,
+    "description": "Payment for Adidas shoes",
+    "card_id": "card_KOd********",
+    "bank": null,
+    "wallet": null,
+    "vpa": null,
+    "email": "gaurav.kumar@example.com",
+    "contact": "9000090000",
+    "customer_id": "cust_K6fN*******",
+    "token_id": "token_KOdY*********",
+    "notes": [],
+    "fee": 1,
+    "tax": 0,
+    "error_code": null,
+    "error_description": null,
+    "error_source": null,
+    "error_step": null,
+    "error_reason": null,
+    "acquirer_data": {
+      "authentication_reference_number": "10022202*************************"
+    },
+    "created_at": 1605871409,
+    "provider": null,
+    "upi": {
+        "payer_account_type": "credit_card",
+        "vpa": "dummy.user@examplebank",
+        "flow": "intent"
+    },
+    "reward": null
+  }
