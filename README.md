@@ -29,8 +29,8 @@ Help us expand this open knowledge base for everyone!
 - [Git](./resources/git.md)
 - [GitHub Learning Roadmap](./resources/github.md)
 - [Linux Commands](./resources/linux-commands.md)
-- [Python](./resources/python-roadmap.md)
-- [Web Development](./resources/web-development.md)
+- [Python Roadmap](./resources/python-roadmap.md)
+- [Web Development Roadmap](./resources/web-development.md)
 
 
 ## Why Contribute?
