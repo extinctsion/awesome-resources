@@ -157,13 +157,13 @@ Once you’re confident with the concepts, start building **real-world projects*
 - Auth, deployment basics
 
 
-| Resource           | Link                                                     |
-|--------------------|---------------------------------------------------------|
-| Flask Docs         | [Flask Official Docs](https://flask.palletsprojects.com/)   |
-| Django Docs        | [Django Official Docs](https://docs.djangoproject.com/en/4.0/) |
-| FastAPI Tutorial   | [FastAPI Tutorial](https://fastapi.tiangolo.com/)           |
-| SQLAlchemy Docs    | [SQLAlchemy Documentation](https://docs.sqlalchemy.org/en/20/) |
-| OpenAPI Spec       | [OpenAPI Specification](https://swagger.io/specification/)   |
+| Resource         | Link                                                           |
+| ---------------- | -------------------------------------------------------------- |
+| Flask Docs       | [Flask Official Docs](https://flask.palletsprojects.com/)      |
+| Django Docs      | [Django Official Docs](https://docs.djangoproject.com/en/4.0/) |
+| FastAPI Tutorial | [FastAPI Tutorial](https://fastapi.tiangolo.com/)              |
+| SQLAlchemy Docs  | [SQLAlchemy Documentation](https://docs.sqlalchemy.org/en/20/) |
+| OpenAPI Spec     | [OpenAPI Specification](https://swagger.io/specification/)     |
 
 ### 📊 **Data Science & Machine Learning Path**
 
@@ -173,14 +173,14 @@ Once you’re confident with the concepts, start building **real-world projects*
 - ML: `scikit-learn`, Jupyter
 - Data storytelling
 
-| Resource                   | Link                                                      |
-|----------------------------|-----------------------------------------------------------|
-| Kaggle – Python for Data Analysis | [Kaggle – Python for Data Analysis](https://www.kaggle.com/learn/python)          |
-| Pandas Documentation       | [Pandas Documentation](https://pandas.pydata.org/docs/)         |
-| NumPy User Guide           | [NumPy User Guide](https://numpy.org/doc/stable/)               |
-| matplotlib Documentation   | [matplotlib Documentation](https://matplotlib.org/stable/contents.html) |
-| scikit-learn Documentation | [scikit-learn Documentation](https://scikit-learn.org/stable/index.html) |
-| Jupyter Notebook           | [Jupyter Notebook](https://jupyter.org/)                          |
+| Resource                          | Link                                                                     |
+| --------------------------------- | ------------------------------------------------------------------------ |
+| Kaggle – Python for Data Analysis | [Kaggle – Python for Data Analysis](https://www.kaggle.com/learn/python) |
+| Pandas Documentation              | [Pandas Documentation](https://pandas.pydata.org/docs/)                  |
+| NumPy User Guide                  | [NumPy User Guide](https://numpy.org/doc/stable/)                        |
+| matplotlib Documentation          | [matplotlib Documentation](https://matplotlib.org/stable/contents.html)  |
+| scikit-learn Documentation        | [scikit-learn Documentation](https://scikit-learn.org/stable/index.html) |
+| Jupyter Notebook                  | [Jupyter Notebook](https://jupyter.org/)                                 |
 
 
 ### 🔁 **Automation & DevOps Path**
@@ -191,13 +191,13 @@ Once you’re confident with the concepts, start building **real-world projects*
 - Cloud platforms
 - Monitoring, deployment
 
-| Resource                              | Link                                                                        |
-|----------------------------------------|-----------------------------------------------------------------------------|
-| Automate the Boring Stuff with Python  | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)|
-| Ansible Documentation                  | [Ansible Documentation](https://docs.ansible.com/)                          |
-| Terraform Documentation                | [Terraform Documentation](https://developer.hashicorp.com/terraform/docs)    |
-| AWS for Python Developers              | [AWS for Python Developers](https://aws.amazon.com/getting-started/hands-on/run-serverless-code/) |
-| Google Cloud Python Docs               | [Google Cloud Python Docs](https://cloud.google.com/python/docs)             |
+| Resource                              | Link                                                                                              |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Automate the Boring Stuff with Python | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)                      |
+| Ansible Documentation                 | [Ansible Documentation](https://docs.ansible.com/)                                                |
+| Terraform Documentation               | [Terraform Documentation](https://developer.hashicorp.com/terraform/docs)                         |
+| AWS for Python Developers             | [AWS for Python Developers](https://aws.amazon.com/getting-started/hands-on/run-serverless-code/) |
+| Google Cloud Python Docs              | [Google Cloud Python Docs](https://cloud.google.com/python/docs)                                  |
 
 
 ---
