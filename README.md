@@ -31,6 +31,7 @@ Help us expand this open knowledge base for everyone!
 - [Linux Commands](./resources/linux-commands.md)
 - [Python Roadmap](./resources/python-roadmap.md)
 - [Web Development Roadmap](./resources/web-development.md)
+- [Online Developer Tools](./resources/online-tools.md)
 
 
 ## Why Contribute?
